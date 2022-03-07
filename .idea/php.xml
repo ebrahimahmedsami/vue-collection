@@ -112,6 +112,7 @@
       <path value="$PROJECT_DIR$/vue-features/vendor/sebastian/recursion-context" />
       <path value="$PROJECT_DIR$/vue-features/vendor/sebastian/complexity" />
       <path value="$PROJECT_DIR$/vue-features/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vue-features/vendor/predis/predis" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.0" />

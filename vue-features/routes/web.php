@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/comment', function () {
+    event(new \App\Events\SaveComment('hi hima sami'));
+});
